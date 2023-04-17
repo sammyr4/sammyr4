@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sammyr4
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning a variety of languages
+- 🌱 I’m currently learning Unity Networking
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me nowhere
 
